@@ -129,6 +129,6 @@
                 Console.Write(verticallyPrint[j, i] + " ");
             }
             Console.WriteLine();
-        }
+        } 
     }
 }

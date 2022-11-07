@@ -159,7 +159,7 @@
                 Console.Write(trans_of_arr1[i][j] + " ");
             }
             Console.WriteLine();
-        }
+        } 
     }
 
 
